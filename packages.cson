@@ -35,6 +35,7 @@ packages: [
   "open-recent"
   "package-sync"
   "pigments"
+  "project-manager"
   "python-indent"
   "sort-lines"
   "split-diff"
