@@ -35,10 +35,10 @@ packages: [
   "open-recent"
   "package-sync"
   "pigments"
+  "platformio-ide-terminal"
   "project-manager"
   "python-indent"
   "sort-lines"
   "split-diff"
-  "terminal-plus"
   "todo-show"
 ]
